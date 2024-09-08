@@ -1,5 +1,6 @@
 import Header from './Header.jsx'
 import Para from './Para.jsx'
+import Image from './Image.jsx'
 function App() {
   
 
@@ -12,6 +13,7 @@ function App() {
 
    <Header />
    <Para />
+   <Image />
    </>
   )
 }
